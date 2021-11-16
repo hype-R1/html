@@ -1,0 +1,70 @@
+body {
+    align-items: center;
+    background-image: url(2-forest.jpeg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(100, 0, 100);
+    font-size: 85px;
+    font-family: 'DM Serif Display', serif;
+}
+
+p {
+    font-family: sans-serif;
+    color: hsl(41, 89%, 44%);
+    font-size: 15px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+#center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width:  150px;
+    height: 150px;
+    object-fit: cover;
+    padding: 10px;
+    float: left;   
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#park-results {
+    background-color: rgb(242, 243, 236);
+    margin: auto;
+    width: 50%;
+    overflow: hidden;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 15px;
+    overflow: hidden;
+    padding: 12px;
+}
+
+button {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+/* select {
+    font-family: sans-serif
+    font-size: 12px;
+    width: 31%;
+} */
